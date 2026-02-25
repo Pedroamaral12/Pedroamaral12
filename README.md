@@ -32,7 +32,7 @@
 
 <h3>⚙️ Backend</h3>
 <p>
-  Laravel • REST APIs • Microservices and Monolithic Concepts
+  Laravel • Node.js • SpringBoot • Websocket • REST APIs • Microservices Concepts
 </p>
 
 <h3>🎨 Frontend</h3>
@@ -52,20 +52,18 @@
 
 <hr>
 
-<!-- GITHUB STATS -->
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pedroamaral12&show_icons=true&theme=dark&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroamaral12&layout=compact&theme=dark&hide_border=true" 
-    height="170"
-  />
-</p>
-
+<!-- LANGUAGES AND TOOLS IMAGES -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <hr>
 
 <!-- CONTACT -->
@@ -78,8 +76,3 @@
 </p>
 
 <hr>
-
-<!-- FOOTER -->
-<p align="center">
-  ⭐ From <strong>Pedro Amaral Brandão</strong>
-</p>
